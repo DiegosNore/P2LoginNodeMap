@@ -2,7 +2,7 @@ FROM node:9.6.1
 
 LABEL version="1.0"
 LABEL description="Web app trackerapp NodeJS"
-LABEL maintainer="yepes for the win"
+LABEL maintainer="Diego Salazar Noreña - dsalaz26@eafit.edu.co"
 
 ARG PORT=3000
 ENV PORT $PORT
